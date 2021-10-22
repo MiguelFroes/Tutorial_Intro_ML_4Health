@@ -2,8 +2,10 @@
 
 1) Começar a "Compute Instance" criada no 1º Hands-On.
 
-2) Para obter o ficheiro da aula, escrever o seguinte comando no jupyter notebook e de seguida clicar "Run".
-" !git clone https://github.com/MiguelFroes/Tutorial_Intro_ML_4Health.git aula "
+2) Abrir "Notebooks" e abrir o "Terminal". 
+
+2) Para obter o ficheiro da aula, escrever o seguinte terminal do Azure ML e de seguida clicar "Enter".
+" git clone https://github.com/MiguelFroes/Tutorial_Intro_ML_4Health.git aula "
 ![Alt text](/github.png?raw=true "Optional Title")
 
 3) De seguinda abrir um notebook novo:
