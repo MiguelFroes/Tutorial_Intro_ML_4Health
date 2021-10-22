@@ -9,10 +9,10 @@
     ![Alt text](/github1.png?raw=true "Optional Title")
 
 4) Selecionar a pasta que foi criada "aula":
-![Alt text](/github3.png?raw=true "Optional Title")
+![Alt text](/github2.png?raw=true "Optional Title")
 
 5) Selecionar o primeiro notebook:
-![Alt text](/github4.png?raw=true "Optional Title")
+![Alt text](/github3.png?raw=true "Optional Title")
 
 6) Esperar pela aula :D
-![Alt text](/github5.png?raw=true "Optional Title")
+![Alt text](/github4.png?raw=true "Optional Title")
