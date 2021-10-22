@@ -14,7 +14,7 @@
 4) Selecionar a pasta que foi criada "aula":
     
 
-5) Selecionar o notebook "Tutorial_1.ipynb"
+5) Selecionar o notebook "Tutorial_1_Basic.ipynb"
 ![Alt text](/Figures/github1.2.png?raw=true "Optional Title")
 
 6) Esperar pela aula :D
