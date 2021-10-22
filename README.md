@@ -7,6 +7,7 @@
 
 
 3) Para obter o ficheiro da aula, escrever o seguinte terminal do Azure ML e de seguida clicar "Enter".
+    
     " git clone https://github.com/MiguelFroes/Tutorial_Intro_ML_4Health.git aula "
     ![Alt text](/Figures/github1.1.png?raw=true "Optional Title")
 
